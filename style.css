@@ -1,0 +1,24 @@
+.Fonts{
+    display: flex;
+    justify-content: space-evenly;
+}
+.Ger{
+    background-color: aqua;
+    width: 150px;
+    height: 150px;
+}
+.Ker{
+    background-color: blueviolet;
+    height: 150px;
+    width: 150px;
+}
+.vbn{
+    background-color: crimson;
+    height: 150px;
+    width: 150px;
+}
+.Tyu{
+    width: 150px;
+    height: 150px;
+    background-color: cyan;
+}
